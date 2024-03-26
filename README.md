@@ -15,16 +15,30 @@
 
 <div style="display: flex; justify-content: space-between;">
     <div>
-        - 🌱 I’m currently learning Typescript, Nest.js, MySQL  
-- ⚡ Fun fact: I 🖤 A (e.g Animals, Anime)
+        
     </div>
     <div>
        
-![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)
+
     </div>
 </div>
 
 
+<table style="border-collapse: collapse; width: 100%;">
+    <tr>
+        <td valign="top" width="50%" style="padding: 0;">
+            <ul>
+                <li>🌱 I’m currently learning Typescript, Nest.js, MySQL</li>
+                <li>⚡ Fun fact: I 🖤 A (e.g Animals, Anime)</li>
+            </ul>
+        </td>
+        <td valign="top" width="50%" style="padding: 0;">
+            <div style="display: flex; justify-content: center;">
+                ![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)
+            </div>
+        </td>
+    </tr>
+</table>
 
 
 
