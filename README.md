@@ -18,12 +18,21 @@
 
 
 <div align="center">
-<img src="https://img.chuing.net/i/eGQeyuN/5.gif" align="center" style="width: 100%" />
-</div>  
-
+<img height="200" width="100%" src="https://img.chuing.net/i/eGQeyuN/5.gif" align="center"  />
+</div>
 
 
 <br/>  
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tofukittycat/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/tofukittycat/tofukittycat/output/snake.svg" alt="Snake animation" />
 
 
 ## Languages and Tools  
@@ -71,11 +80,12 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 ## 🎧 Spotify playing on tofu's Github profile!!  
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31vlzpnm46tukqgfnd4ruqnufpsu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31vlzpnm46tukqgfnd4ruqnufpsu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=tofukittycat&&style=flat-square)  
+  
   
 
 <br/>  
