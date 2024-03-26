@@ -5,6 +5,8 @@
 
 ### Glad to see you here!  
 즐거운 프론트엔드 개발 생활을 하려고 노력 중입니다. 🐱  
+![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)
+
   
 
 <br/>  
@@ -12,14 +14,11 @@
 
 ## Rapidfire  
 
-<table ><tr style="border: none" ><td style="border: none; border-collapse: collapse;" valign="top" width="50%">
             <ul>
                 <li>🌱 I’m currently learning Typescript, Nest.js, MySQL</li>
                 <li>⚡ Fun fact: I 🖤 A (e.g Animals, Anime)</li>
             </ul>
-</td><td td style="border: none; border-collapse: collapse;" valign="top" width="50%">
-       <img height="100%" src="https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3"  />
-</td></tr></table>  
+
 
 <br/>  
             
