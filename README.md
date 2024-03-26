@@ -13,12 +13,12 @@
 
 
 ## Rapidfire  
-
+<div>
             <ul>
                 <li>🌱 I’m currently learning Typescript, Nest.js, MySQL</li>
                 <li>⚡ Fun fact: I 🖤 A (e.g Animals, Anime)</li>
             </ul>
-
+</div>
 
 <br/>  
             
