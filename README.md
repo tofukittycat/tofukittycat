@@ -11,22 +11,17 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🌱 I’m currently learning Typescript, Nest.js, MySQL  
   
 
 - ⚡ Fun fact: I 🖤 A (e.g Animals, Anime)  
 
 
-</td><td valign="top" width="50%">
-
 <div align="center">
 <img src="https://img.chuing.net/i/eGQeyuN/5.gif" align="center" style="width: 100%" />
 </div>  
 
 
-</td></tr></table>  
 
 <br/>  
 
@@ -66,14 +61,16 @@
 
 
 
-### 📓 Latest Blog Posts  
+## 📓 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 
+<br/>  
 
-### 🎧 Spotify playing on tofu's Github profile!!  
+
+## 🎧 Spotify playing on tofu's Github profile!!  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31vlzpnm46tukqgfnd4ruqnufpsu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)  
 
 <br/>  
