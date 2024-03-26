@@ -12,6 +12,7 @@
 
 ## Rapidfire  
 
+<div display='flex'>
 <div align="left">
             <ul>
                 <li>🌱 I’m currently learning Typescript, Nest.js, MySQL</li>
@@ -21,6 +22,8 @@
 <div align="right">
        <img height="150" src="https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3"  />
 </div>
+</div>
+
             
 
 <br/>  
