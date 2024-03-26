@@ -12,23 +12,19 @@
 
 ## Rapidfire  
 
-<table style="border-collapse: collapse; width: 100%;">
-    <tr>
-        <td valign="top" width="50%" style="padding: 0;">
+<div align="left">
             <ul>
                 <li>🌱 I’m currently learning Typescript, Nest.js, MySQL</li>
                 <li>⚡ Fun fact: I 🖤 A (e.g Animals, Anime)</li>
             </ul>
-        </td>
-        <td valign="top" width="50%" style="padding: 0;">
-            <div style="display: flex; justify-content: center;">
-              <img src=" ![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)"/>
-               
-            </div>
-        </td>
-    </tr>
-</table>
+</div>
+       <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+              ![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)
 
+
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 <br/>  
@@ -71,7 +67,6 @@
 
 ## 📓 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
 
