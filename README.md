@@ -18,14 +18,8 @@
                 <li>⚡ Fun fact: I 🖤 A (e.g Animals, Anime)</li>
             </ul>
 </div>
-       <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-              ![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)
-
-
-
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+       <img align="right" height="150" src="https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3"  />
+            
 
 <br/>  
 
