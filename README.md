@@ -12,18 +12,6 @@
 
 ## Rapidfire  
 
-
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        
-    </div>
-    <div>
-       
-
-    </div>
-</div>
-
-
 <table style="border-collapse: collapse; width: 100%;">
     <tr>
         <td valign="top" width="50%" style="padding: 0;">
@@ -34,7 +22,8 @@
         </td>
         <td valign="top" width="50%" style="padding: 0;">
             <div style="display: flex; justify-content: center;">
-                ![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)
+              <img src=" ![5](https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3)">
+               
             </div>
         </td>
     </tr>
