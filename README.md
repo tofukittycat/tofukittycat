@@ -12,21 +12,18 @@
 
 ## Rapidfire  
 
-<div display='flex'>
-<div align="left">
+<table ><tr style="border: none" ><td style="border: none; border-collapse: collapse;" valign="top" width="50%">
             <ul>
                 <li>🌱 I’m currently learning Typescript, Nest.js, MySQL</li>
                 <li>⚡ Fun fact: I 🖤 A (e.g Animals, Anime)</li>
             </ul>
-</div>
-<div align="right">
-       <img height="150" src="https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3"  />
-</div>
-</div>
-
-            
+</td><td td style="border: none; border-collapse: collapse;" valign="top" width="50%">
+       <img height="100%" src="https://github.com/tofukittycat/tofukittycat/assets/155352117/c3b9d0f0-e24f-45ab-827a-89fa8d8989e3"  />
+</td></tr></table>  
 
 <br/>  
+            
+
 
 
 ## Languages and Tools  
