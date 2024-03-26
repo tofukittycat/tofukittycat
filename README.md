@@ -24,16 +24,6 @@
 
 <br/>  
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tofukittycat/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tofukittycat/tofukittycat/output/snake.svg" alt="Snake animation" />
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -91,7 +81,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
